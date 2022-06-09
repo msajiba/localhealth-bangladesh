@@ -1,0 +1,13 @@
+
+.link-items a {
+    color:rgb(0, 0, 0);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Arial, Helvetica, sans-serif;
+} 
+
+.link-items a:hover {
+    color:aqua;
+    background: linear-gradient(rgb(26, 25, 25), rgba(8, 140, 140, 0.378));
+    border-radius: 25px;
+    transition:0.8s;
+}
+
